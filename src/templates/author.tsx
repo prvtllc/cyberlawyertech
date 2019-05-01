@@ -136,21 +136,21 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
         <meta property="og:type" content="profile" />
         <meta property="og:title" content={`${author.id} - ${config.title}`} />
         <meta property="og:url" content={config.siteUrl + props.pathContext.slug} />
-        <meta property="article:publisher" content="https://www.facebook.com/ghost" />
-        <meta property="article:author" content="https://www.facebook.com/ghost" />
+        <meta property="article:publisher" content="https://www.facebook.com/avmtech" />
+        <meta property="article:author" content="https://www.facebook.com/avmtech" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={`${author.id} - ${config.title}`} />
         <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
         {config.twitter && (
           <meta
             name="twitter:site"
-            content={`@${config.twitter.split('https://twitter.com/')[1]}`}
+            content={`@${config.twitter.split('https://twitter.com/cyberforensix')[1]}`}
           />
         )}
         {config.twitter && (
           <meta
             name="twitter:creator"
-            content={`@${config.twitter.split('https://twitter.com/')[1]}`}
+            content={`@${config.twitter.split('https://twitter.com/cyberforensix')[1]}`}
           />
         )}
       </Helmet>

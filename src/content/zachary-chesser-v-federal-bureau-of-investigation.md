@@ -2,7 +2,7 @@
 layout: post
 title: "Zachary Chesser v. Federal Bureau of Investigation"
 author: Domingo Rivera
-tags: ["Stored Communications Act"]
+tags: ["Stored Communications Act", "Eastern District of Virginia"]
 image: img/fbi.jpeg
 date: "2019-03-05T23:46:37.121Z"
 draft: false
@@ -104,6 +104,7 @@ Scrimgeour v. Internal Revenue, 149 F.3d 318, 326 (4th Cir. 1998) (internal quot
 III. Motion to Dismiss
 
 Standard of Review
+
 Federal Rule of Civil Procedure 12(b)(6) allows a court to dismiss those allegations which fail “to state a claim upon which relief can be granted.” A court may dismiss claims based upon dispositive issues of law. Hishon v. King & Spalding, 467 U.S. 69, 73 (1984). The alleged facts are presumed true, and the complaint should be dismissed only when “it is clear that no relief could be granted under any set of facts that could be proved consistent with the allegations.” Id.To survive a 12(b)(6) motion, “a complaint must contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.'” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007)). “A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.”
 
 Page 10

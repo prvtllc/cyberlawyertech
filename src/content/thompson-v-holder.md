@@ -14,7 +14,7 @@ No. 1:17-cv-364 (LMB/JFA)
 UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA Alexandria Division
 November 1, 2017
 
-*Below, you will find the text of the court’s opinion for this interesting case.   If you would rather read some of the highlights, you may find some parts of the opinion in the blog of cyber lawyer Domingo J. Rivera. On the other hand, if you are more interested in the cyber security aspects of the opinion, [Infosecly has an article about this case](https://www.infosecly.com/articles/the-strange-case-of-the-cbs-government-surveillance).*
+***Below, you will find the text of the court’s opinion for this interesting case.   If you would rather read some of the highlights, you may find some parts of the opinion in the blog of [cyber lawyer Domingo J. Rivera](https://www.domingorivera.org/the-eric-holder-fast-and-furious-surveilance-of-the-press-case/). On the other hand, if you are more interested in the cyber security aspects of the opinion, [Infosecly has an article about this case](https://www.infosecly.com/articles/the-strange-case-of-the-cbs-government-surveillance).***
 
 **MEMORANDUM OPINION**
 
